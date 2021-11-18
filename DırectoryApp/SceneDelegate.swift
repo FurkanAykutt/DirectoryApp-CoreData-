@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  DırectoryApp
 //
-//  Created by Ebubekir Aykut on 17.11.2021.
+//  Created by Furkan Aykut on 17.11.2021.
 //
 
 import UIKit
